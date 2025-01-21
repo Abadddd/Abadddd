@@ -1,20 +1,20 @@
-<h1 align="left" color="pink">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is John Roland Abad and I'm a aspiring developer.</p>
+<p align="left">My name is John Roland Abad, an aspiring developer.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My expertise are C, C++, Java, HTML, CSS, JS</h2>
 
 ###
 
