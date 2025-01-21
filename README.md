@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My expertise are C, C++, Java, HTML, CSS, JS</h2>
+<h2 align="left">Languages that I use:</h2>
 
 ###
 
